@@ -11,7 +11,7 @@ Key Features:
 - Generates detailed reports and visualizations
 - Handles both .npy and .png prediction formats
 
-Author: Asif Hasan Biplob
+
 Thesis: Unsupervised Kidney Pathology Segmentation
 
 Usage:
